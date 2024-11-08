@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Build directories
+android/build/
+ios/Pods/
+ios/build/
+
+# React Native packager cache
+.react/
+.buckconfig
+*.log
+*.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Metro bundler cache
+metro-*
+react-native-packager-cache/
+
+# CocoaPods
+Podfile.lock
+*.xcworkspace
+
+# Misc
+*.swp
+*.swo
+*.bak
+*.tmp
+*.DS_Store
+
+# Android Studio
+.idea/
+*.iml
+
+# Xcode
+*.xcuserstate
+*.xcuserdata/
